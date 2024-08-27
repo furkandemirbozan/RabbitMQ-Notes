@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E07365-C8F3-4936-83AC-32B86442D6FE}|WorkerServices.Publisher\\WorkerServices.Publisher.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq-notes\\example-8.enterprise service bus \u0026 masstransit\\masstransit-workerservices\\workerservices\\workerservices.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E07365-C8F3-4936-83AC-32B86442D6FE}|WorkerServices.Publisher\\WorkerServices.Publisher.csproj|solutionrelative:workerservices.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E07365-C8F3-4936-83AC-32B86442D6FE}|WorkerServices.Publisher\\WorkerServices.Publisher.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq-notes\\example-8.enterprise service bus \u0026 masstransit\\masstransit-workerservices\\workerservices\\workerservices.publisher\\services\\publishmessageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E07365-C8F3-4936-83AC-32B86442D6FE}|WorkerServices.Publisher\\WorkerServices.Publisher.csproj|solutionrelative:workerservices.publisher\\services\\publishmessageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C530C1-6611-4735-A808-7EAD49D9AE80}|WorkerServices.Consumer\\WorkerServices.Consumer.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq-notes\\example-8.enterprise service bus \u0026 masstransit\\masstransit-workerservices\\workerservices\\workerservices.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C530C1-6611-4735-A808-7EAD49D9AE80}|WorkerServices.Consumer\\WorkerServices.Consumer.csproj|solutionrelative:workerservices.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C530C1-6611-4735-A808-7EAD49D9AE80}|WorkerServices.Consumer\\WorkerServices.Consumer.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq-notes\\example-8.enterprise service bus \u0026 masstransit\\masstransit-workerservices\\workerservices\\workerservices.consumer\\conusmer\\examplemessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C530C1-6611-4735-A808-7EAD49D9AE80}|WorkerServices.Consumer\\WorkerServices.Consumer.csproj|solutionrelative:workerservices.consumer\\conusmer\\examplemessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublishMessageServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Publisher\\Services\\PublishMessageServices.cs",
+              "RelativeDocumentMoniker": "WorkerServices.Publisher\\Services\\PublishMessageServices.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Publisher\\Services\\PublishMessageServices.cs",
+              "RelativeToolTip": "WorkerServices.Publisher\\Services\\PublishMessageServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:47:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleMessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Consumer\\Conusmer\\ExampleMessageConsumer.cs",
+              "RelativeDocumentMoniker": "WorkerServices.Consumer\\Conusmer\\ExampleMessageConsumer.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Consumer\\Conusmer\\ExampleMessageConsumer.cs",
+              "RelativeToolTip": "WorkerServices.Consumer\\Conusmer\\ExampleMessageConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:39:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerServices.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Publisher\\Program.cs",
+              "RelativeToolTip": "WorkerServices.Publisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:36:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerServices.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ-Notes\\Example-8.Enterprise Service Bus \u0026 MassTransit\\MassTransit-WorkerServices\\WorkerServices\\WorkerServices.Consumer\\Program.cs",
+              "RelativeToolTip": "WorkerServices.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:24:53.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

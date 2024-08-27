@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example2\\RabbitMQ.Publisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130AFA77-6C46-48F2-9C7D-D2D739B5B9F9}|RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq\\example2\\rabbitmq.publisher\\rabbitmq.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130AFA77-6C46-48F2-9C7D-D2D739B5B9F9}|RabbitMQ.Publisher\\RabbitMQ.Publisher.csproj|solutionrelative:rabbitmq.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example2\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example2\\RabbitMQ.Publisher\\RabbitMQ.Publisher\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.Publisher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:40:59.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

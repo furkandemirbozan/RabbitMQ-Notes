@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example-4(Fanout)\\RabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A98A9-3EC7-4E80-BB1D-F5B57CE469DF}|RabbitMQ_Fanout\\RabbitMQ_Fanout.Publisher.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq\\example-4(fanout)\\rabbitmq\\rabbitmq_fanout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6A98A9-3EC7-4E80-BB1D-F5B57CE469DF}|RabbitMQ_Fanout\\RabbitMQ_Fanout.Publisher.csproj|solutionrelative:rabbitmq_fanout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F3299A-3A49-448D-B035-49E3048B144F}|RabbitMQ.Cunsumer\\RabbitMQ.Cunsumer.csproj|c:\\users\\hp\\belgeler\\dev\\rabbitmq\\example-4(fanout)\\rabbitmq\\rabbitmq.cunsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F3299A-3A49-448D-B035-49E3048B144F}|RabbitMQ.Cunsumer\\RabbitMQ.Cunsumer.csproj|solutionrelative:rabbitmq.cunsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example-4(Fanout)\\RabbitMQ\\RabbitMQ_Fanout\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ_Fanout\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example-4(Fanout)\\RabbitMQ\\RabbitMQ_Fanout\\Program.cs",
+              "RelativeToolTip": "RabbitMQ_Fanout\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:43:47.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example-4(Fanout)\\RabbitMQ\\RabbitMQ.Cunsumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Cunsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Belgeler\\Dev\\RabbitMQ\\Example-4(Fanout)\\RabbitMQ\\RabbitMQ.Cunsumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.Cunsumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:45:31.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
